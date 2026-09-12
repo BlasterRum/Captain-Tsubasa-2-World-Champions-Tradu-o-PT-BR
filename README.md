@@ -25,7 +25,8 @@ Manter este projeto exige muito tempo de estudo, testes e dedicação. Se você 
 
 Qualquer valor é um incentivo gigante para eu continuar focado em finalizar essa tradução.
 
-> ❤️ *Clique no botão **Sponsor** (ou no coração) no topo desta página para ver as formas de apoio disponíveis!*
+> ❤️ *Clique no botão **Sponsor** no topo desta página para ver as formas de apoio disponíveis!*
+> [![GitHub Sponsors](https://shields.io)](https://github.com)
 
 ---
 
