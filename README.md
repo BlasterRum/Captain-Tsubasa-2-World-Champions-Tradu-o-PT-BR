@@ -34,7 +34,12 @@ Qualquer valor é um incentivo gigante para eu continuar focado em finalizar ess
 Este projeto é **100% gratuito e feito por mim**. Não há qualquer vínculo com as empresas detentoras dos direitos do jogo original. Não distribua este patch comercialmente.
 
 ## 🛠️ Como usar a tradução?
-Extraia o arquivo para a pasta ...\CAPTAIN TSUBASA 2 WORLD FIGHTERS\CaptainTsubasa2WF\Content\Paks
+Entre no gerenciador de arquivos do jogo na Steam, ou clique com o **botão direito** no atalho do jogo e clique em **abrir local do arquivo**
+
+Extraia o arquivo para a pasta **Paks** que fica no caminho: 
+...\CAPTAIN TSUBASA 2 WORLD FIGHTERS\CaptainTsubasa2WF\Content\Paks
+
+**Basta jogar o arquivo da tradução lá, não precisa criar outra pasta ou modificar nenhum arquivo.**
 
 O mod substitui o texto em Inglês para Português Brasileiro, então deixe o jogo em "English" nas configurações de Idioma.
 
