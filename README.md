@@ -1,8 +1,8 @@
-# ⚽ Captain Tsubasa 2: Super Striker — Tradução Independente PT-BR
+# ⚽ Captain Tsubasa 2: World Champions — Tradução Independente PT-BR
 
 Seja bem-vindo(a) ao projeto de tradução independente e não oficial para o **Captain Tsubasa 2 World Champions!** 
 
-Como este é o meu primeiro trabalho de tradução de jogos, estou aprendendo todo o processo do zero (engenharia reversa, romhacking e adaptação de textos). 
+Como este é o meu primeiro trabalho de tradução de jogos, estou aprendendo todo o processo do zero (engenharia reversa e adaptação de textos). 
 
 ---
 
