@@ -43,6 +43,6 @@ Extraia o arquivo para a pasta **Paks** que fica no caminho:
 
 O mod substitui o texto em Inglês para Português Brasileiro, então deixe o jogo em "English" nas configurações de Idioma.
 
-Se quiser que jogo volte a ter o Inglês, basta excluir o arquivo do mod de tradução.
+Se quiser que o jogo volte a ter o Inglês, basta excluir o arquivo do mod de tradução.
 
 Muito obrigado pelo apoio e boa gameplay! 🏆
